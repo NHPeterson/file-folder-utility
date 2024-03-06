@@ -2,7 +2,7 @@
 Program to assist in making folders and organizing files.
 Made using NetBeans.
 
-Create tab:
+## Create tab:
 
 Drop one or more files into the top left window, and the program will read the filename(s).
 
@@ -22,15 +22,15 @@ Clicking the Create button will create the folders listed in the right window, c
 
 The folders are created within the same directory their respective** files existed in.
 
-*The files are copied into folders until the program reaches the last folder, then the files are moved into the last folder.
+_*The files are copied into folders until the program reaches the last folder, then the files are moved into the last folder._
 
-**If there are multiple files in the top left window, each one will be handled separately, i.e. one or more folders are created for the first file, then that file is copy/moved into its folders, then the cycle begins again on the second file, etc.
+_**If there are multiple files in the top left window, each one will be handled separately, i.e. one or more folders are created for the first file, then that file is copy/moved into its folders, then the cycle begins again on the second file, etc._
 
 After clicking the Create button, and after the program runs, the windows and internal variables will be cleared out.
 
 Some errors are accounted for, and if triggered a message in red will appear above the Create button.
 
-Copy tab:
+## Copy tab:
 
 Drop one or more files into the top window.
 
